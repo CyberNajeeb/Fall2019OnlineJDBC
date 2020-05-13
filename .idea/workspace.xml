@@ -7,8 +7,15 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bpPtuSHzVKXCyg0NUYd1qLZ72o" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -22,6 +29,26 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
+  <component name="RunManager">
+    <configuration name="BasicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.jdbc.day1.BasicTest" />
+      <module name="Fall2019OnlineJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc.day1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BasicTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -34,5 +61,31 @@
       <updated>1589326282206</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="916" height="274" key="GridCell.Tab.0.bottom" timestamp="1589335336452">
+      <screen x="2048" y="112" width="1920" height="1080" />
+    </state>
+    <state width="916" height="274" key="GridCell.Tab.0.bottom/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1589335336452" />
+    <state width="1878" height="274" key="GridCell.Tab.0.bottom/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1589329968928" />
+    <state width="916" height="274" key="GridCell.Tab.0.center" timestamp="1589335336451">
+      <screen x="2048" y="112" width="1920" height="1080" />
+    </state>
+    <state width="916" height="274" key="GridCell.Tab.0.center/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1589335336451" />
+    <state width="1878" height="274" key="GridCell.Tab.0.center/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1589329968927" />
+    <state width="916" height="274" key="GridCell.Tab.0.left" timestamp="1589335336451">
+      <screen x="2048" y="112" width="1920" height="1080" />
+    </state>
+    <state width="916" height="274" key="GridCell.Tab.0.left/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1589335336451" />
+    <state width="1878" height="274" key="GridCell.Tab.0.left/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1589329968927" />
+    <state width="916" height="274" key="GridCell.Tab.0.right" timestamp="1589335336452">
+      <screen x="2048" y="112" width="1920" height="1080" />
+    </state>
+    <state width="916" height="274" key="GridCell.Tab.0.right/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1589335336452" />
+    <state width="1878" height="274" key="GridCell.Tab.0.right/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1589329968928" />
+    <state x="2811" y="560" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589328431131">
+      <screen x="2048" y="135" width="1920" height="1057" />
+    </state>
+    <state x="2811" y="560" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1589328431131" />
   </component>
 </project>
