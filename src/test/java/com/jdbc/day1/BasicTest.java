@@ -5,11 +5,11 @@ import java.sql.*;
 public class BasicTest {
 
     public static void main(String[] args) throws SQLException {
-        String URL = "jdbc:oracle:thin:@54.227.18.240:1521:xe";
-        String username = "hr";
-        String password = "hr";
+        final String DB_URL = "jdbc:oracle:thin:@54.227.18.240:1521:xe";
+        final String username = "hr";
+        final String password = "hr";
 
-        Connection connection = DriverManager.getConnection(URL, username, password);
+        Connection connection = DriverManager.getConnection(DB_URL, username, password);
         Statement statement = connection.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE, ResultSet.CONCUR_READ_ONLY);
         ResultSet result = statement.executeQuery("SELECT * FROM employees");
 

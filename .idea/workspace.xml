@@ -29,23 +29,93 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
-    <configuration name="BasicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.jdbc.day1.BasicTest" />
+  <component name="RunManager" selected="JUnit.JDBCPractice.metaDataTest">
+    <configuration name="DatabaseTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Fall2019OnlineJDBC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.jdbc.day1.*" />
+          <option name="PATTERN" value="com.jdbc.day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc.day2" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc.day2.DatabaseTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseTests.insertTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019OnlineJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc.day2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc.day2" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc.day2.DatabaseTests" />
+      <option name="METHOD_NAME" value="insertTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCPractice.connectToDB" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019OnlineJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc.day3.JDBCPractice" />
+      <option name="METHOD_NAME" value="connectToDB" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCPractice.metaDataTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019OnlineJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc.day3.JDBCPractice" />
+      <option name="METHOD_NAME" value="metaDataTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBCPractice.preparedStatementTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Fall2019OnlineJDBC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jdbc.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.jdbc.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.jdbc.day3.JDBCPractice" />
+      <option name="METHOD_NAME" value="preparedStatementTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BasicTest" />
+        <item itemvalue="JUnit.JDBCPractice.metaDataTest" />
+        <item itemvalue="JUnit.JDBCPractice.preparedStatementTest" />
+        <item itemvalue="JUnit.JDBCPractice.connectToDB" />
+        <item itemvalue="JUnit.DatabaseTests.insertTest" />
+        <item itemvalue="JUnit.DatabaseTests" />
       </list>
     </recent_temporary>
   </component>
@@ -63,26 +133,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="916" height="274" key="GridCell.Tab.0.bottom" timestamp="1589335336452">
+    <state width="1078" height="273" key="GridCell.Tab.0.bottom" timestamp="1591321088309">
       <screen x="2048" y="112" width="1920" height="1080" />
     </state>
-    <state width="916" height="274" key="GridCell.Tab.0.bottom/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1589335336452" />
+    <state width="1078" height="273" key="GridCell.Tab.0.bottom/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1591321088309" />
+    <state width="1878" height="245" key="GridCell.Tab.0.bottom/2048.135.1920.1008/0.23.2048.1129@2048.135.1920.1008" timestamp="1589436481442" />
     <state width="1878" height="274" key="GridCell.Tab.0.bottom/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1589329968928" />
-    <state width="916" height="274" key="GridCell.Tab.0.center" timestamp="1589335336451">
+    <state width="1078" height="273" key="GridCell.Tab.0.center" timestamp="1591321088308">
       <screen x="2048" y="112" width="1920" height="1080" />
     </state>
-    <state width="916" height="274" key="GridCell.Tab.0.center/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1589335336451" />
+    <state width="1078" height="273" key="GridCell.Tab.0.center/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1591321088308" />
+    <state width="1878" height="245" key="GridCell.Tab.0.center/2048.135.1920.1008/0.23.2048.1129@2048.135.1920.1008" timestamp="1589436481441" />
     <state width="1878" height="274" key="GridCell.Tab.0.center/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1589329968927" />
-    <state width="916" height="274" key="GridCell.Tab.0.left" timestamp="1589335336451">
+    <state width="1078" height="273" key="GridCell.Tab.0.left" timestamp="1591321088307">
       <screen x="2048" y="112" width="1920" height="1080" />
     </state>
-    <state width="916" height="274" key="GridCell.Tab.0.left/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1589335336451" />
+    <state width="1078" height="273" key="GridCell.Tab.0.left/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1591321088307" />
+    <state width="1878" height="245" key="GridCell.Tab.0.left/2048.135.1920.1008/0.23.2048.1129@2048.135.1920.1008" timestamp="1589436481441" />
     <state width="1878" height="274" key="GridCell.Tab.0.left/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1589329968927" />
-    <state width="916" height="274" key="GridCell.Tab.0.right" timestamp="1589335336452">
+    <state width="1078" height="273" key="GridCell.Tab.0.right" timestamp="1591321088308">
       <screen x="2048" y="112" width="1920" height="1080" />
     </state>
-    <state width="916" height="274" key="GridCell.Tab.0.right/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1589335336452" />
+    <state width="1078" height="273" key="GridCell.Tab.0.right/2048.112.1920.1080/0.0.2048.1152@2048.112.1920.1080" timestamp="1591321088308" />
+    <state width="1878" height="245" key="GridCell.Tab.0.right/2048.135.1920.1008/0.23.2048.1129@2048.135.1920.1008" timestamp="1589436481441" />
     <state width="1878" height="274" key="GridCell.Tab.0.right/2048.135.1920.1057/0.23.2048.1080@2048.135.1920.1057" timestamp="1589329968928" />
+    <state x="2546" y="301" key="Maven.ArtifactSearchDialog" timestamp="1589416176513">
+      <screen x="2048" y="135" width="1920" height="1008" />
+    </state>
+    <state x="2546" y="301" key="Maven.ArtifactSearchDialog/2048.135.1920.1008/0.23.2048.1129@2048.135.1920.1008" timestamp="1589416176513" />
     <state x="2811" y="560" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1589328431131">
       <screen x="2048" y="135" width="1920" height="1057" />
     </state>
